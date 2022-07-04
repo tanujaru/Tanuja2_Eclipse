@@ -6,6 +6,7 @@ public class class2 {
 		int x=10;
 		x=x+1;
 		x=x+2;
+		x=x+3;
 	}
 
 }
